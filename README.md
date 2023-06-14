@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Flutter and Java Spring**
 
-- 📝 I regularly write articles on [https://tawannahakkinen.blogspot.com/](https://tawannahakkinen.blogspot.com/)
-
 - 📫 How to reach me **thol_16@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
