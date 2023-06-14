@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tawanna Hakkinen</h1>
 <h3 align="center">A Software Engineer learning Flutter and Java Spring</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hakkinent&label=Profile%20views&color=0e75b6&style=flat" alt="hakkinent" /> </p>
-
 - 🌱 I’m currently learning **Flutter and Java Spring**
 
 - 📫 How to reach me **thol_16@hotmail.com**
