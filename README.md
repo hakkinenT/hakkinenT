@@ -19,6 +19,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hakkinent&" alt="hakkinent" /></p>
 
-<h3 align="left">Main Projects:</h3>
-<p align="left"> <a href="https://github.com/hakkinenT/flutter_portfolio" target="_blank" rel="noreferrer"> <img src="https://github.com/hakkinenT/assets/blob/master/thumbs/flutter-projects-thumb.png" alt="flutter-projects" width="288" height="183"/> </a> <a href="https://github.com/hakkinenT/java_portfolio" target="_blank" rel="noreferrer"> <img src="https://github.com/hakkinenT/assets/blob/master/thumbs/java-projects-thumb.png" alt="java" width="288" height="183"/> </a> <a href="https://github.com/hakkinenT/java_spring_boot_portfolio" target="_blank" rel="noreferrer"> <img src="https://github.com/hakkinenT/assets/blob/master/thumbs/spring-projects-thumb.png" alt="spring" width="288" height="183"/> </a> </p>
+<h3 align="left">Projects:</h3>
+<p>Click to see</p>
+<p></p>
+<p align="left"> <a href="https://github.com/hakkinenT/flutter_portfolio" target="_blank" rel="noreferrer"> <img src="https://github.com/hakkinenT/assets/blob/master/thumbs/flutter-projects-thumb.png" alt="flutter-projects" width="248" height="153"/> </a> <a href="https://github.com/hakkinenT/java_portfolio" target="_blank" rel="noreferrer"> <img src="https://github.com/hakkinenT/assets/blob/master/thumbs/java-projects-thumb.png" alt="java" width="248" height="153"/> </a> <a href="https://github.com/hakkinenT/java_spring_boot_portfolio" target="_blank" rel="noreferrer"> <img src="https://github.com/hakkinenT/assets/blob/master/thumbs/spring-projects-thumb.png" alt="spring" width="248" height="153"/> </a> </p>
 
