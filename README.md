@@ -19,8 +19,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hakkinent&" alt="hakkinent" /></p>
 
-<h3 align="left">Projects:</h3>
-<p>Click to see</p>
-<p></p>
-<p align="left"> <a href="https://github.com/hakkinenT/flutter_portfolio" target="_blank" rel="noreferrer"> <img src="https://github.com/hakkinenT/assets/blob/master/thumbs/flutter-projects-thumb.png" alt="flutter-projects" width="248" height="153"/> </a> <a href="https://github.com/hakkinenT/java_portfolio" target="_blank" rel="noreferrer"> <img src="https://github.com/hakkinenT/assets/blob/master/thumbs/java-projects-thumb.png" alt="java" width="248" height="153"/> </a> <a href="https://github.com/hakkinenT/java_spring_boot_portfolio" target="_blank" rel="noreferrer"> <img src="https://github.com/hakkinenT/assets/blob/master/thumbs/spring-projects-thumb.png" alt="spring" width="248" height="153"/> </a> </p>
+<h3 align="left">Main Projects:</h3>
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=hakkinenT&repo=flutter_portfolio&bg_color=fff&border_color=918e8e&show_icons=true&icon_color=d98807&title_color=2f80ed&text_color=000)](https://github.com/hakkinenT/flutter_portfolio)    [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=hakkinenT&repo=java_portfolio&bg_color=fff&border_color=918e8e&show_icons=true&icon_color=d98807&title_color=2f80ed&text_color=000)](https://github.com/hakkinenT/java_portfolio)[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=hakkinenT&repo=java_spring_boot_portfolio&bg_color=fff&border_color=918e8e&show_icons=true&icon_color=d98807&title_color=2f80ed&text_color=000)](https://github.com/hakkinenT/java_spring_boot_portfolio)
